@@ -1,0 +1,75 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+#logoVerde{
+    width: 150px;
+    margin-left: 50px;
+}
+nav a{
+    color: black;
+    text-decoration: none;
+}
+
+header{
+    display: flex;
+    width: 100%;
+    height: 85px;
+    background-color: #153700;
+}
+
+#menuPrincipalCabecario{
+    margin-top: 110px;
+    margin-left: 440px;
+    padding: 10px;
+}
+#sobreNos{
+    margin-right: 30px;
+}
+#imagens{
+    margin-right: 30px;
+}
+#contatos{
+    margin-right: 30px;
+}
+
+main{
+    background-color: white;
+    width: 100%;
+    height: 600px;
+}
+
+#logoSDP{
+    margin-top: 90px;
+    width: 900px;
+    margin-left: 350px;
+}
+
+footer{
+   background-color: #153700;
+    width: 100%;
+    height: 500px;
+    padding: auto;
+
+}
+
+#logoFooter{
+    width: 300px;
+    margin-top: 50px;
+    margin-left: 50px;
+    
+}
+
+#menuPrincipalRodape{
+    padding: 5px;
+}
+
+#InformContatos{
+    margin-left: 450px;
+    margin-top: 444;
+}
+
+#sdp{
+    width: 20px;
+
+}
