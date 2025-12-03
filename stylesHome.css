@@ -34,6 +34,7 @@ header{
 }
 
 main{
+    display: flex;
     background-color: white;
     width: 100%;
     height: 600px;
@@ -46,30 +47,33 @@ main{
 }
 
 footer{
-   background-color: #153700;
+    display: flex;
+    background-color: #153700;
     width: 100%;
-    height: 500px;
-    padding: auto;
-
+    height: 400px;
 }
 
 #logoFooter{
     width: 300px;
-    margin-top: 50px;
-    margin-left: 50px;
-    
+    height: 300px;
+    margin-top: 30px;
+    margin-left: 20px;
 }
 
-#menuPrincipalRodape{
-    padding: 5px;
+#e-mail{
+    color: rgb(255, 255, 255);
+   margin-left: 150px;
+   margin-top: 70px;
 }
 
-#InformContatos{
-    margin-left: 450px;
-    margin-top: 444;
+#numeroContato{
+    color: rgba(255, 255, 255, 0.897);
+    margin-left: 120px;
+    margin-top: 70px;
 }
 
-#sdp{
-    width: 20px;
-
+#redeSocial{
+    color: rgb(255, 255, 255);
+    margin-left: 170px;
+    margin-top: 70px;
 }
