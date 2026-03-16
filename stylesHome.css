@@ -34,7 +34,8 @@ header{
 }
 
 main{
-    background-color: rgb(108, 131, 108);
+    display: flex;
+    background-color: white;
     width: 100%;
     height: 600px;
 }
@@ -47,40 +48,32 @@ main{
 
 footer{
     display: flex;
-    background-color: #616360;
+    background-color: #153700;
     width: 100%;
-<<<<<<< HEAD
-    height: 100px;
-=======
-    height: 500px;
-    padding: auto;
-
+    height: 400px;
 }
 
 #logoFooter{
     width: 300px;
-    margin-top: 50px;
-    margin-left: 50px;
-    
+    height: 300px;
+    margin-top: 30px;
+    margin-left: 20px;
 }
 
-#menuPrincipalRodape{
-    padding: 5px;
+#e-mail{
+    color: rgb(255, 255, 255);
+   margin-left: 150px;
+   margin-top: 70px;
 }
 
-#InformContatos{
-    margin-left: 450px;
-    margin-top: 444;
->>>>>>> 96ffc230340c8911b6bcb42afbc101760b0a2fdb
+#numeroContato{
+    color: rgba(255, 255, 255, 0.897);
+    margin-left: 120px;
+    margin-top: 70px;
 }
 
-#sdp{
-    width: 100px;
-    margin-left: 500px;
-
-}
-
-p{
-    width: 370px;
-    margin-left: 90px;
+#redeSocial{
+    color: rgb(255, 255, 255);
+    margin-left: 170px;
+    margin-top: 70px;
 }
